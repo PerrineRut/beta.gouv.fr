@@ -1,12 +1,14 @@
 ---
-title: Friches
+title: Friches - UrbanVitaliz
 mission: Faciliter la réhabilitation des friches
 owner: CEREMA
 incubator: dinum
 phases:
   - name: investigation
     start: 2020-02-12
-  - name: investigation
+    end: 2020-05-19
+  - name: construction
+    start: 2020-09-14
 link:
 repository: 
 stats: false 
